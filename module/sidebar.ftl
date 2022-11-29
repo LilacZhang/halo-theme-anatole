@@ -15,7 +15,7 @@
     <#include "social-list.ftl">
     <div class="footer">
         <a target="_blank" href="#">
-            <a href="https://www.caicai.me">Designed by CaiCai</a>
+            <a href="http://beian.miit.gov.cn">京ICP备2022033583号</a>
             <div class="by_halo">
                 <a href="https://halo.run" target="_blank">Proudly published with Halo</a>
             </div>
